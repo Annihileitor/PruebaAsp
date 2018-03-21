@@ -1,0 +1,11 @@
+c:\users\alumnos09\documents\visual studio 2010\Projects\Prueba1\Prueba1\bin\Prueba1.dll
+c:\users\alumnos09\documents\visual studio 2010\Projects\Prueba1\Prueba1\bin\Prueba1.pdb
+c:\users\alumnos09\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.dll
+c:\users\alumnos09\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Leo\Desktop\Prueba1\Prueba1\bin\Prueba1.dll.config
+C:\Users\Leo\Desktop\Prueba1\Prueba1\bin\Prueba1.dll
+C:\Users\Leo\Desktop\Prueba1\Prueba1\bin\Prueba1.pdb
+C:\Users\Leo\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.dll
+C:\Users\Leo\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.pdb

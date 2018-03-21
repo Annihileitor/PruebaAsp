@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Estructura.master.cs" Inherits="Prueba1.Estructura" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <h1>Prueba 1 Asp</h1>
+
+    <asp:Menu ID="Menu1" runat="server">
+        <Items>
+        <asp:MenuItem Text="Inicio" Value="Inicio" NavigateUrl="~/Index.aspx"></asp:MenuItem>        
+        <asp:MenuItem Text="Ingresar Producto" Value="Ingresar" NavigateUrl="~/IngresarProducto.aspx"></asp:MenuItem>
+        <asp:MenuItem Text="Modificar stock" Value="ModificarStock" NavigateUrl="~/ModificarStock.aspx"></asp:MenuItem>
+        <asp:MenuItem Text="Modificar detalles" Value="ModificarDet" NavigateUrl="~/ModificarDetalles.aspx"></asp:MenuItem>
+        <asp:MenuItem Text="Listado productos" Value="Listado" NavigateUrl="~/ListarProductos.aspx"></asp:MenuItem>
+        <asp:MenuItem Text="Buscar Producto" Value="Buscar" NavigateUrl="~/BuscarProducto.aspx"></asp:MenuItem>
+            
+        </Items>
+
+        </asp:Menu>
+        <br />
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
